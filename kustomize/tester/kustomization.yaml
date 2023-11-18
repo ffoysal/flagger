@@ -1,4 +1,4 @@
-namespace: test
+namespace: bookinfo
 resources:
   - service.yaml
   - deployment.yaml
